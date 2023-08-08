@@ -30,7 +30,7 @@ The UML Design describes the high-level design structure and relationships betwe
 
 ## UML Diagram Flow: 
 
-### [https://github.com/aristovince31/UML/tree/master/Task1]Task 1 (Class Diagram):
+### [Link text] (https://github.com/aristovince31/UML/tree/master/Task1) Task 1 (Class Diagram):
 ![](Task1/image.png)
 
 First, the user must validate the login by entering the correct password. Then the user profile is changed to customer, which consists of the ID, name, address, etc. 
@@ -53,7 +53,7 @@ Once the payment is completed, the products are checked out, and it is used to t
 
 It will initialize the return option for a specific period to return the products if the customer is not satisfied. 
 
-### TASK 2 (Use Case Diagram) 
+### [Link text] (https://github.com/aristovince31/UML/tree/master/Task2) TASK 2 (Use Case Diagram) 
 
 In the Online Shopping Management System, there are four actors included. 
 
@@ -63,7 +63,7 @@ In the Online Shopping Management System, there are four actors included.
 **System User**: Manages product availability and stock levels. 
 ![Alt text](<Task2/image.png>)
 
-### TASK 3 (Sequence Diagram) 
+### [Link text] (https://github.com/aristovince31/UML/tree/master/Task3) TASK 3 (Sequence Diagram) 
 
 ![Alt text](Task3/image.png)
 

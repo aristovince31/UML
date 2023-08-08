@@ -53,7 +53,7 @@ Once the payment is completed, the products are checked out, and it is used to t
 
 It will initialize the return option for a specific period to return the products if the customer is not satisfied. 
 
-### [Link text] (https://github.com/aristovince31/UML/tree/master/Task2) TASK 2 (Use Case Diagram) 
+### [Task 2](https://github.com/aristovince31/UML/tree/master/Task2) (Use Case Diagram):
 
 In the Online Shopping Management System, there are four actors included. 
 
@@ -63,7 +63,7 @@ In the Online Shopping Management System, there are four actors included.
 **System User**: Manages product availability and stock levels. 
 ![Alt text](<Task2/image.png>)
 
-### [Link text] (https://github.com/aristovince31/UML/tree/master/Task3) TASK 3 (Sequence Diagram) 
+### [Task 3](https://github.com/aristovince31/UML/tree/master/Task3)(Sequence Diagram):
 
 ![Alt text](Task3/image.png)
 

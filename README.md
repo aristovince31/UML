@@ -30,8 +30,8 @@ The UML Design describes the high-level design structure and relationships betwe
 
 ## UML Diagram Flow: 
 
-### Task 1 (Class Diagram):
-![Alt text](Task1/image.png)
+### [https://github.com/aristovince31/UML/tree/master/Task1]Task 1 (Class Diagram):
+![](Task1/image.png)
 
 First, the user must validate the login by entering the correct password. Then the user profile is changed to customer, which consists of the ID, name, address, etc. 
 
